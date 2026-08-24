@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "tower-of-mages-2026.2.sln"
+    "dotnet.defaultSolution": "tower-of-mages-2026.2.slnx"
 }
