@@ -1,0 +1,1837 @@
+fileFormatVersion: 2
+guid: 1dabbd372477789408f09845c7434717
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6380837946456474567
+    second: Tiles da Casa_0
+  - first:
+      213: -6771230550700005363
+    second: Tiles da Casa_1
+  - first:
+      213: -5584992349986892335
+    second: Tiles da Casa_2
+  - first:
+      213: -7139342324824217601
+    second: Tiles da Casa_3
+  - first:
+      213: -4269586894878619728
+    second: Tiles da Casa_4
+  - first:
+      213: -6330282241678118617
+    second: Tiles da Casa_5
+  - first:
+      213: 6571397809976631205
+    second: Tiles da Casa_6
+  - first:
+      213: -1304300886274117509
+    second: Tiles da Casa_7
+  - first:
+      213: -4790752648181924442
+    second: Tiles da Casa_8
+  - first:
+      213: -7019747146423276553
+    second: Tiles da Casa_9
+  - first:
+      213: 7914870831460607271
+    second: Tiles da Casa_10
+  - first:
+      213: 2143625055394240877
+    second: Tiles da Casa_11
+  - first:
+      213: -2923976886034583200
+    second: Tiles da Casa_12
+  - first:
+      213: 7335821716541246159
+    second: Tiles da Casa_13
+  - first:
+      213: 3171070452508010657
+    second: Tiles da Casa_14
+  - first:
+      213: 177342407338874944
+    second: Tiles da Casa_15
+  - first:
+      213: 1078846918830279396
+    second: Tiles da Casa_16
+  - first:
+      213: -6116781695371159209
+    second: Tiles da Casa_17
+  - first:
+      213: -1362399223994975368
+    second: Tiles da Casa_18
+  - first:
+      213: 6417654152543377805
+    second: Tiles da Casa_19
+  - first:
+      213: 1234887050069306569
+    second: Tiles da Casa_20
+  - first:
+      213: 1572048125997991661
+    second: Tiles da Casa_21
+  - first:
+      213: -965499879759985901
+    second: Tiles da Casa_22
+  - first:
+      213: -8818265004130492385
+    second: Tiles da Casa_23
+  - first:
+      213: -3150276097261179725
+    second: Tiles da Casa_24
+  - first:
+      213: 5337633010837445115
+    second: Tiles da Casa_25
+  - first:
+      213: 3674580359114372362
+    second: Tiles da Casa_26
+  - first:
+      213: -7820937991706590618
+    second: Tiles da Casa_27
+  - first:
+      213: -5110201886605719353
+    second: Tiles da Casa_28
+  - first:
+      213: -4930951072460658184
+    second: Tiles da Casa_29
+  - first:
+      213: 7241243985356314345
+    second: Tiles da Casa_30
+  - first:
+      213: -4298078239959476244
+    second: Tiles da Casa_31
+  - first:
+      213: 8761349564812893894
+    second: Tiles da Casa_32
+  - first:
+      213: 4393274535637869971
+    second: Tiles da Casa_33
+  - first:
+      213: 4348773383744031731
+    second: Tiles da Casa_34
+  - first:
+      213: -8165829671334797085
+    second: Tiles da Casa_35
+  - first:
+      213: 2165867602989653359
+    second: Tiles da Casa_36
+  - first:
+      213: -2776501224166792954
+    second: Tiles da Casa_37
+  - first:
+      213: 6497027252054952270
+    second: Tiles da Casa_38
+  - first:
+      213: -4966637851729580797
+    second: Tiles da Casa_39
+  - first:
+      213: 6805872590827748875
+    second: Tiles da Casa_40
+  - first:
+      213: -7865602716999377585
+    second: Tiles da Casa_41
+  - first:
+      213: -6166667358990822200
+    second: Tiles da Casa_42
+  - first:
+      213: -3478043348429428326
+    second: Tiles da Casa_43
+  - first:
+      213: -2147216607461114344
+    second: Tiles da Casa_44
+  - first:
+      213: 3195623318157308251
+    second: Tiles da Casa_45
+  - first:
+      213: -4121210764433524488
+    second: Tiles da Casa_46
+  - first:
+      213: 2833753522722546710
+    second: Tiles da Casa_47
+  - first:
+      213: 4754700036199240213
+    second: Tiles da Casa_48
+  - first:
+      213: -2253415640947297553
+    second: Tiles da Casa_49
+  - first:
+      213: 8203030396941866783
+    second: Tiles da Casa_50
+  - first:
+      213: -1186277571577513598
+    second: Tiles da Casa_51
+  - first:
+      213: 8380885425063201895
+    second: Tiles da Casa_52
+  - first:
+      213: -419400115873581029
+    second: Tiles da Casa_53
+  - first:
+      213: 8546851335108065404
+    second: Tiles da Casa_54
+  - first:
+      213: -8853966768401018435
+    second: Tiles da Casa_55
+  - first:
+      213: -4350834151593593550
+    second: Tiles da Casa_56
+  - first:
+      213: -6932599468907245780
+    second: Tiles da Casa_57
+  - first:
+      213: 1041518774703948346
+    second: Tiles da Casa_58
+  - first:
+      213: -2641318782793201127
+    second: Tiles da Casa_59
+  - first:
+      213: 6342899840729694613
+    second: Tiles da Casa_60
+  - first:
+      213: 178074398804825172
+    second: Tiles da Casa_61
+  - first:
+      213: -748605526432355622
+    second: Tiles da Casa_62
+  - first:
+      213: 5387136373163803655
+    second: Tiles da Casa_63
+  - first:
+      213: -1047432260968663956
+    second: Tiles da Casa_64
+  - first:
+      213: -7089804557906509345
+    second: Tiles da Casa_65
+  - first:
+      213: -8688902993093693384
+    second: Tiles da Casa_66
+  - first:
+      213: 6846784345009183397
+    second: Tiles da Casa_67
+  - first:
+      213: -1010440083574206930
+    second: Tiles da Casa_68
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiles da Casa_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1800
+        width: 33
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cf020e1b5b277a0800000000000000
+      internalID: -6380837946456474567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1802
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08e04d80b1c702a0800000000000000
+      internalID: -6771230550700005363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_2
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1802
+        width: 202
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5d1c95c0f1e72b0800000000000000
+      internalID: -5584992349986892335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_3
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1802
+        width: 303
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7e0fe3bf5fbec90800000000000000
+      internalID: -7139342324824217601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_4
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1808
+        width: 303
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7c81127516fb4c0800000000000000
+      internalID: -4269586894878619728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1500
+        width: 36
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721ffc827d15628a0800000000000000
+      internalID: -6330282241678118617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1502
+        width: 106
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afdf6dcd7b423b50800000000000000
+      internalID: 6571397809976631205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1499
+        width: 203
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b707761214136ede0800000000000000
+      internalID: -1304300886274117509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_8
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1502
+        width: 207
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adba5659d3d38db0800000000000000
+      internalID: -4790752648181924442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_9
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1402
+        width: 106
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbe06c9929d49e90800000000000000
+      internalID: -7019747146423276553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1304
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7256f40261547dd60800000000000000
+      internalID: 7914870831460607271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1207
+        width: 253
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69966661afafbd10800000000000000
+      internalID: 2143625055394240877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1211
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061b4789382fb67d0800000000000000
+      internalID: -2923976886034583200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_13
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1207
+        width: 188
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca890efbf21ec560800000000000000
+      internalID: 7335821716541246159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_14
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1216
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a82a7786c7e10c20800000000000000
+      internalID: 3171070452508010657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_15
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1220
+        width: 203
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048db09dafb067200800000000000000
+      internalID: 177342407338874944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_16
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1215
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea47e38e85d8fe00800000000000000
+      internalID: 1078846918830279396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_17
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1197
+        width: 304
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7595ac6c473dc1ba0800000000000000
+      internalID: -6116781695371159209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1006
+        width: 90
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bf283cf19c71de0800000000000000
+      internalID: -1362399223994975368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1105
+        width: 243
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8998a51376101950800000000000000
+      internalID: 6417654152543377805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 905
+        width: 93
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc6c15ba33332110800000000000000
+      internalID: 1234887050069306569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_21
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 908
+        width: 77
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6cde7017901d510800000000000000
+      internalID: 1572048125997991661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_22
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 908
+        width: 77
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313493c89fad992f0800000000000000
+      internalID: -965499879759985901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_23
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 600
+        width: 508
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f102b8d23ba3f9580800000000000000
+      internalID: -8818265004130492385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 910
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bce7569498f744d0800000000000000
+      internalID: -3150276097261179725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 921
+        width: 86
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf95d5081f4131a40800000000000000
+      internalID: 5337633010837445115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 909
+        width: 93
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05b3ab2e5bbef230800000000000000
+      internalID: 3674580359114372362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_27
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 905
+        width: 88
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662c8f96552767390800000000000000
+      internalID: -7820937991706590618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_28
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 905
+        width: 76
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8c55a857ae419b0800000000000000
+      internalID: -5110201886605719353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_29
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 906
+        width: 164
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9a629ff1eb19bb0800000000000000
+      internalID: -4930951072460658184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_30
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 712
+        width: 130
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6d817f9011e7460800000000000000
+      internalID: 7241243985356314345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_31
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 716
+        width: 95
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7116aec982a54c0800000000000000
+      internalID: -4298078239959476244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_32
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 715
+        width: 101
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce12b37201969970800000000000000
+      internalID: 8761349564812893894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_33
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 715
+        width: 303
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395e671e9eb08fc30800000000000000
+      internalID: 4393274535637869971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 722
+        width: 201
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb8cba0a52f95c30800000000000000
+      internalID: 4348773383744031731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_35
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 720
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0aeb7ad252dae80800000000000000
+      internalID: -8165829671334797085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_36
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 720
+        width: 200
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d99b21c15be0e10800000000000000
+      internalID: 2165867602989653359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_37
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 604
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601e91fd8d2e779d0800000000000000
+      internalID: -2776501224166792954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_38
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 507
+        width: 95
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4984ceecd31a2a50800000000000000
+      internalID: 6497027252054952270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_39
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 506
+        width: 104
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d26af2035f21bb0800000000000000
+      internalID: -4966637851729580797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_40
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 511
+        width: 201
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0efad2ff01537e50800000000000000
+      internalID: 6805872590827748875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_41
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 509
+        width: 93
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d97eca004c7d290800000000000000
+      internalID: -7865602716999377585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_42
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 508
+        width: 88
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c41b5b95b89b6aa0800000000000000
+      internalID: -6166667358990822200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_43
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 504
+        width: 93
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99247780028bbfc0800000000000000
+      internalID: -3478043348429428326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_44
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 407
+        width: 132
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ef5783fdd8332e0800000000000000
+      internalID: -2147216607461114344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_45
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 543
+        width: 144
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51b8ba0a72295c20800000000000000
+      internalID: 3195623318157308251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_46
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 305
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f87c6515a48ec6c0800000000000000
+      internalID: -4121210764433524488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_47
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 306
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614a3e6a0d3835720800000000000000
+      internalID: 2833753522722546710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_48
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 305
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512513fcd761cf140800000000000000
+      internalID: 4754700036199240213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_49
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 306
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2f606e9624ab0e0800000000000000
+      internalID: -2253415640947297553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_50
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 306
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17937b3fa407d170800000000000000
+      internalID: 8203030396941866783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_51
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 308
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289fb1575de798fe0800000000000000
+      internalID: -1186277571577513598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_52
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 308
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c0428e3e2ee4470800000000000000
+      internalID: 8380885425063201895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_53
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 307
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18f89211ddfd2af0800000000000000
+      internalID: -419400115873581029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_54
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 308
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78703191048c9670800000000000000
+      internalID: 8546851335108065404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_55
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 307
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1185c6224602580800000000000000
+      internalID: -8853966768401018435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_56
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 201
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23530ad046bbe93c0800000000000000
+      internalID: -4350834151593593550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_57
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 198
+        width: 101
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fc8b573857acf90800000000000000
+      internalID: -6932599468907245780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_58
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 202
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a320121bec7347e00800000000000000
+      internalID: 1041518774703948346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_59
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 198
+        width: 398
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a4b05bf86285bd0800000000000000
+      internalID: -2641318782793201127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_60
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 204
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591439c8cc1860850800000000000000
+      internalID: 6342899840729694613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_61
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 204
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4545a54e8b5a87200800000000000000
+      internalID: 178074398804825172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_62
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 203
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adaea107d3b6c95f0800000000000000
+      internalID: -748605526432355622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_63
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 104
+        width: 105
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704c3073df3f2ca40800000000000000
+      internalID: 5387136373163803655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_64
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 102
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64bdae78e5c671f0800000000000000
+      internalID: -1047432260968663956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_65
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 102
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd189076154fb9d90800000000000000
+      internalID: -7089804557906509345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_66
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 102
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83072d873c0da6780800000000000000
+      internalID: -8688902993093693384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_67
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 102
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa5af1061aa40f50800000000000000
+      internalID: 6846784345009183397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa_68
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 101
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e4eb7f8123af1f0800000000000000
+      internalID: -1010440083574206930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tiles da Casa_0: -6380837946456474567
+      Tiles da Casa_1: -6771230550700005363
+      Tiles da Casa_10: 7914870831460607271
+      Tiles da Casa_11: 2143625055394240877
+      Tiles da Casa_12: -2923976886034583200
+      Tiles da Casa_13: 7335821716541246159
+      Tiles da Casa_14: 3171070452508010657
+      Tiles da Casa_15: 177342407338874944
+      Tiles da Casa_16: 1078846918830279396
+      Tiles da Casa_17: -6116781695371159209
+      Tiles da Casa_18: -1362399223994975368
+      Tiles da Casa_19: 6417654152543377805
+      Tiles da Casa_2: -5584992349986892335
+      Tiles da Casa_20: 1234887050069306569
+      Tiles da Casa_21: 1572048125997991661
+      Tiles da Casa_22: -965499879759985901
+      Tiles da Casa_23: -8818265004130492385
+      Tiles da Casa_24: -3150276097261179725
+      Tiles da Casa_25: 5337633010837445115
+      Tiles da Casa_26: 3674580359114372362
+      Tiles da Casa_27: -7820937991706590618
+      Tiles da Casa_28: -5110201886605719353
+      Tiles da Casa_29: -4930951072460658184
+      Tiles da Casa_3: -7139342324824217601
+      Tiles da Casa_30: 7241243985356314345
+      Tiles da Casa_31: -4298078239959476244
+      Tiles da Casa_32: 8761349564812893894
+      Tiles da Casa_33: 4393274535637869971
+      Tiles da Casa_34: 4348773383744031731
+      Tiles da Casa_35: -8165829671334797085
+      Tiles da Casa_36: 2165867602989653359
+      Tiles da Casa_37: -2776501224166792954
+      Tiles da Casa_38: 6497027252054952270
+      Tiles da Casa_39: -4966637851729580797
+      Tiles da Casa_4: -4269586894878619728
+      Tiles da Casa_40: 6805872590827748875
+      Tiles da Casa_41: -7865602716999377585
+      Tiles da Casa_42: -6166667358990822200
+      Tiles da Casa_43: -3478043348429428326
+      Tiles da Casa_44: -2147216607461114344
+      Tiles da Casa_45: 3195623318157308251
+      Tiles da Casa_46: -4121210764433524488
+      Tiles da Casa_47: 2833753522722546710
+      Tiles da Casa_48: 4754700036199240213
+      Tiles da Casa_49: -2253415640947297553
+      Tiles da Casa_5: -6330282241678118617
+      Tiles da Casa_50: 8203030396941866783
+      Tiles da Casa_51: -1186277571577513598
+      Tiles da Casa_52: 8380885425063201895
+      Tiles da Casa_53: -419400115873581029
+      Tiles da Casa_54: 8546851335108065404
+      Tiles da Casa_55: -8853966768401018435
+      Tiles da Casa_56: -4350834151593593550
+      Tiles da Casa_57: -6932599468907245780
+      Tiles da Casa_58: 1041518774703948346
+      Tiles da Casa_59: -2641318782793201127
+      Tiles da Casa_6: 6571397809976631205
+      Tiles da Casa_60: 6342899840729694613
+      Tiles da Casa_61: 178074398804825172
+      Tiles da Casa_62: -748605526432355622
+      Tiles da Casa_63: 5387136373163803655
+      Tiles da Casa_64: -1047432260968663956
+      Tiles da Casa_65: -7089804557906509345
+      Tiles da Casa_66: -8688902993093693384
+      Tiles da Casa_67: 6846784345009183397
+      Tiles da Casa_68: -1010440083574206930
+      Tiles da Casa_7: -1304300886274117509
+      Tiles da Casa_8: -4790752648181924442
+      Tiles da Casa_9: -7019747146423276553
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6083 @@
+fileFormatVersion: 2
+guid: e37c6f8211ff8d44b94b93812c6b9f5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6489005355986825350
+    second: Tiles da Casa Grided_0
+  - first:
+      213: 350943897657122358
+    second: Tiles da Casa Grided_1
+  - first:
+      213: 2430172386253737726
+    second: Tiles da Casa Grided_2
+  - first:
+      213: 3270919646505949330
+    second: Tiles da Casa Grided_3
+  - first:
+      213: 9016346991382690440
+    second: Tiles da Casa Grided_4
+  - first:
+      213: -5379064726835874007
+    second: Tiles da Casa Grided_5
+  - first:
+      213: -3060532501795659701
+    second: Tiles da Casa Grided_6
+  - first:
+      213: -8033559801928387213
+    second: Tiles da Casa Grided_7
+  - first:
+      213: -1889310705188096203
+    second: Tiles da Casa Grided_8
+  - first:
+      213: -926023256581939071
+    second: Tiles da Casa Grided_9
+  - first:
+      213: 3147643331029921360
+    second: Tiles da Casa Grided_10
+  - first:
+      213: 6493510781095799206
+    second: Tiles da Casa Grided_11
+  - first:
+      213: -6065697164677801097
+    second: Tiles da Casa Grided_12
+  - first:
+      213: -6718546225887864500
+    second: Tiles da Casa Grided_13
+  - first:
+      213: 220376183589672730
+    second: Tiles da Casa Grided_14
+  - first:
+      213: 1291723377639251711
+    second: Tiles da Casa Grided_15
+  - first:
+      213: -8610583727126032470
+    second: Tiles da Casa Grided_16
+  - first:
+      213: -1135668638647524948
+    second: Tiles da Casa Grided_17
+  - first:
+      213: -8398394968479617098
+    second: Tiles da Casa Grided_18
+  - first:
+      213: 6349940537430181009
+    second: Tiles da Casa Grided_19
+  - first:
+      213: 460834361035951864
+    second: Tiles da Casa Grided_20
+  - first:
+      213: -2268791827426179884
+    second: Tiles da Casa Grided_21
+  - first:
+      213: -9099930064685502122
+    second: Tiles da Casa Grided_22
+  - first:
+      213: 5741565724323790355
+    second: Tiles da Casa Grided_23
+  - first:
+      213: -1423140653878420980
+    second: Tiles da Casa Grided_24
+  - first:
+      213: 8237732549327513080
+    second: Tiles da Casa Grided_25
+  - first:
+      213: 3027052969069140393
+    second: Tiles da Casa Grided_26
+  - first:
+      213: 4177859761029832237
+    second: Tiles da Casa Grided_27
+  - first:
+      213: 1004598974692299314
+    second: Tiles da Casa Grided_28
+  - first:
+      213: 4500491513775479727
+    second: Tiles da Casa Grided_29
+  - first:
+      213: -8756519873323885589
+    second: Tiles da Casa Grided_30
+  - first:
+      213: 767194302920696269
+    second: Tiles da Casa Grided_31
+  - first:
+      213: 8735878336369742879
+    second: Tiles da Casa Grided_32
+  - first:
+      213: -112159200595600427
+    second: Tiles da Casa Grided_33
+  - first:
+      213: 8947467834586106304
+    second: Tiles da Casa Grided_34
+  - first:
+      213: 8524164490633994248
+    second: Tiles da Casa Grided_35
+  - first:
+      213: -5860903635196497561
+    second: Tiles da Casa Grided_36
+  - first:
+      213: -7757627887488990893
+    second: Tiles da Casa Grided_37
+  - first:
+      213: 654174660089082710
+    second: Tiles da Casa Grided_38
+  - first:
+      213: 675716620756030270
+    second: Tiles da Casa Grided_39
+  - first:
+      213: -2834026213471757235
+    second: Tiles da Casa Grided_40
+  - first:
+      213: -2740908402400079880
+    second: Tiles da Casa Grided_41
+  - first:
+      213: 1662240548355249021
+    second: Tiles da Casa Grided_42
+  - first:
+      213: -713838756294872816
+    second: Tiles da Casa Grided_43
+  - first:
+      213: 1931623471240368953
+    second: Tiles da Casa Grided_44
+  - first:
+      213: -826165719016106565
+    second: Tiles da Casa Grided_45
+  - first:
+      213: -3981130184479219532
+    second: Tiles da Casa Grided_46
+  - first:
+      213: -2943987859521267955
+    second: Tiles da Casa Grided_47
+  - first:
+      213: 4825624436278461563
+    second: Tiles da Casa Grided_48
+  - first:
+      213: 7300929413851019399
+    second: Tiles da Casa Grided_49
+  - first:
+      213: 3536243948327495473
+    second: Tiles da Casa Grided_50
+  - first:
+      213: -2215985969923804041
+    second: Tiles da Casa Grided_51
+  - first:
+      213: 939166403150312625
+    second: Tiles da Casa Grided_52
+  - first:
+      213: 209560754012175638
+    second: Tiles da Casa Grided_53
+  - first:
+      213: -3400658618107623888
+    second: Tiles da Casa Grided_54
+  - first:
+      213: -3316980598534807204
+    second: Tiles da Casa Grided_55
+  - first:
+      213: 881172120068783904
+    second: Tiles da Casa Grided_56
+  - first:
+      213: -547369313820232836
+    second: Tiles da Casa Grided_57
+  - first:
+      213: -2239298333354957915
+    second: Tiles da Casa Grided_58
+  - first:
+      213: -4649949907686394883
+    second: Tiles da Casa Grided_59
+  - first:
+      213: -8179700800016427972
+    second: Tiles da Casa Grided_60
+  - first:
+      213: -3904894122858931233
+    second: Tiles da Casa Grided_61
+  - first:
+      213: 2731773784456305545
+    second: Tiles da Casa Grided_62
+  - first:
+      213: 6771455217589955274
+    second: Tiles da Casa Grided_63
+  - first:
+      213: -7298598475870481043
+    second: Tiles da Casa Grided_64
+  - first:
+      213: 2421032622985233453
+    second: Tiles da Casa Grided_65
+  - first:
+      213: 6167561456035415016
+    second: Tiles da Casa Grided_66
+  - first:
+      213: 5733216538844816198
+    second: Tiles da Casa Grided_67
+  - first:
+      213: 1885119945095340103
+    second: Tiles da Casa Grided_68
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_0
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f4cca420c62f5a0800000000000000
+      internalID: -6489005355986825350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_1
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e91f39d9dced400800000000000000
+      internalID: 350943897657122358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe0e91e8e4b9b120800000000000000
+      internalID: 2430172386253737726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29855d2a614a46d20800000000000000
+      internalID: 3270919646505949330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_4
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88af60961df702d70800000000000000
+      internalID: 9016346991382690440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_5
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9273d156129b955b0800000000000000
+      internalID: -5379064726835874007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40aeeea7edc685d0800000000000000
+      internalID: -3060532501795659701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375733c7cef038090800000000000000
+      internalID: -8033559801928387213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537bbe27ce1d7c5e0800000000000000
+      internalID: -1889310705188096203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180eea121ca1623f0800000000000000
+      internalID: -926023256581939071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e6aa1ceecaeab20800000000000000
+      internalID: 3147643331029921360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9626cb6a59d1a50800000000000000
+      internalID: 6493510781095799206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b1940f09052dba0800000000000000
+      internalID: -6065697164677801097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_13
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4999eecdcde2c2a0800000000000000
+      internalID: -6718546225887864500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1791dba8feee0300800000000000000
+      internalID: 220376183589672730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe5140719f1de110800000000000000
+      internalID: 1291723377639251711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_16
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafc4e398bf018880800000000000000
+      internalID: -8610583727126032470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1ecd2e36b4d30f0800000000000000
+      internalID: -1135668638647524948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_18
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf2854d548e27b80800000000000000
+      internalID: -8398394968479617098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_19
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194016e76458f1850800000000000000
+      internalID: 6349940537430181009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_20
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe87d5e866356600800000000000000
+      internalID: 460834361035951864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d404f08ad1a380e0800000000000000
+      internalID: -2268791827426179884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_22
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651f585d1dd86b180800000000000000
+      internalID: -9099930064685502122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_23
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31eb0ec2b932eaf40800000000000000
+      internalID: 5741565724323790355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_24
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ad82c8d1dff3ce0800000000000000
+      internalID: -1423140653878420980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5e655bb1e425270800000000000000
+      internalID: 8237732549327513080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a958a923a0420a20800000000000000
+      internalID: 3027052969069140393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ed491415dbaf930800000000000000
+      internalID: 4177859761029832237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2329144e17d01fd00800000000000000
+      internalID: 1004598974692299314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab5f39ef25f47e30800000000000000
+      internalID: 4500491513775479727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb91e9b1979a7680800000000000000
+      internalID: -8756519873323885589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_31
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1aa4b572f95aa00800000000000000
+      internalID: 767194302920696269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f145950ff031c3970800000000000000
+      internalID: 8735878336369742879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_33
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db15322dc7817ef0800000000000000
+      internalID: -112159200595600427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c90dbff69acb2c70800000000000000
+      internalID: 8947467834586106304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_35
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800ec37f07aeb4670800000000000000
+      internalID: 8524164490633994248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_36
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76131593233e9aea0800000000000000
+      internalID: -5860903635196497561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_37
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3510e8ab98e575490800000000000000
+      internalID: -7757627887488990893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_38
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653fbab2368141900800000000000000
+      internalID: 654174660089082710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_39
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e339dfcbfa0a06900800000000000000
+      internalID: 675716620756030270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cded59c248ba8d0800000000000000
+      internalID: -2834026213471757235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_41
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff4f09745656f9d0800000000000000
+      internalID: -2740908402400079880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7317f7c8f6711710800000000000000
+      internalID: 1662240548355249021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_43
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0113328ee6fe716f0800000000000000
+      internalID: -713838756294872816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_44
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933d61b10518eca10800000000000000
+      internalID: 1931623471240368953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_45
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb59070e7aed884f0800000000000000
+      internalID: -826165719016106565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_46
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0e78da03f20c8c0800000000000000
+      internalID: -3981130184479219532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_47
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d071c22c3aad427d0800000000000000
+      internalID: -2943987859521267955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_48
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7482d78bdf08f240800000000000000
+      internalID: 4825624436278461563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_49
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7887ac2be9c125560800000000000000
+      internalID: 7300929413851019399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_50
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1376f2b9223431130800000000000000
+      internalID: 3536243948327495473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774317b408c3f31e0800000000000000
+      internalID: -2215985969923804041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_52
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b471c42ed6980d00800000000000000
+      internalID: 939166403150312625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_53
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d32cd356288e200800000000000000
+      internalID: 209560754012175638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_54
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0360359110f6ec0d0800000000000000
+      internalID: -3400658618107623888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_55
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51687148b7b7f1d0800000000000000
+      internalID: -3316980598534807204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_56
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f7da2ef5d8a3c00800000000000000
+      internalID: 881172120068783904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_57
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73bbc8528a5768f0800000000000000
+      internalID: -547369313820232836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_58
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3e046b70a6ce0e0800000000000000
+      internalID: -2239298333354957915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_59
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3fdf8023f087fb0800000000000000
+      internalID: -4649949907686394883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34da06d57ddb7e80800000000000000
+      internalID: -8179700800016427972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_61
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb9b79fb770fc9c0800000000000000
+      internalID: -3904894122858931233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_62
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b1e3d88c539e520800000000000000
+      internalID: 2731773784456305545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_63
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca2ae8c4aa09fd50800000000000000
+      internalID: 6771455217589955274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_64
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6558871b5b26ba90800000000000000
+      internalID: -7298598475870481043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_65
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24caaae75c399120800000000000000
+      internalID: 2421032622985233453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_66
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3c1659774979550800000000000000
+      internalID: 6167561456035415016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_67
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6436d32f01a709f40800000000000000
+      internalID: 5733216538844816198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_68
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740696e2a9a492a10800000000000000
+      internalID: 1885119945095340103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_69
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f21da95bc8433a4e8b7faadc4d8626e
+      internalID: 1078560561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_70
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1404
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150242ea3a4310149a18769a8f6eeaf1
+      internalID: 572729147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_71
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1404
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aab3862fc1b0c04caaa4f0fa60de97e
+      internalID: -783694295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_72
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1404
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bb41b399180da49a6eb0ffc80e5abb
+      internalID: 1954540182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_73
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1404
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f02fd60fea527e43a9160814015a868
+      internalID: -1724099095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_74
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1404
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67b475085944d842b004b35f9a9cb8e
+      internalID: 519175292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_75
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1404
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e53b86f95f4154599393b65447505b
+      internalID: 571451598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_76
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1404
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19493a2a9aede1b4bbc21e59583225e9
+      internalID: 188853206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_77
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1404
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ca192af6a789148b42f1897c627350
+      internalID: -1012111402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_78
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1404
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d8bb0ddf6e27f4babc459077347b5d
+      internalID: 795646995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_79
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1404
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5643209f6e41440aa4615f66deb5d9
+      internalID: 1387946167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_80
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1404
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561df61ef25edfc43b2ed0784ee974a5
+      internalID: 812035749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1304
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba336bcbd95e6a8498ca94687bbdaed4
+      internalID: -1537545328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1304
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729b97091d3007747a8fa8547d3fc1ab
+      internalID: 882089750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_83
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1304
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b5850ed358e084aa810bd6bd1e80f6
+      internalID: -276683695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1304
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad810ef76b41b3f4cb4cddebd1b30e9f
+      internalID: -1774904107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_85
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1304
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a375981a8966e44b89916da0ec8cbef
+      internalID: 1045980382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_86
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1304
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c757b59b69543d4e83040d332f3bba3
+      internalID: 1968427103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_87
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8034dae1a06d8e94f9fa907966b0e6e3
+      internalID: 867273927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_88
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4c16e3da5f2c74baf1bc370d46eb72
+      internalID: 864927086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_89
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f359ec5e721071c48a2fcf806cd6bf18
+      internalID: -128985094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_90
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e0c7044c658a24183658e3c5201716
+      internalID: -1861775831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_91
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9302ddf68d5c504479f54ce9c55d503d
+      internalID: 1299061866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_92
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47a3e3062c33a5479a3a02704f460ef
+      internalID: 391852699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_93
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa4ba9c35691844a87aeafc803727d0
+      internalID: 352745087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_94
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce85b2ebcfff7d440a66469f7fb9e637
+      internalID: 450496471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_95
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a60eb40537ec1546ae69e1ec3da3f1a
+      internalID: 536869804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_96
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aec855c62a57d54abdf57e3fd128895
+      internalID: 797304577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_97
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44bccb70eab2f040ae5d436bd3a391f
+      internalID: -1565999235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_98
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faa5234055970e42be1cd145dfbb6e6
+      internalID: -991945530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_99
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8eb893ebb6cda40bcb38cdc7b62c9d
+      internalID: -334015685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_100
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d7339de48a6a947a6fd92269ba3b18
+      internalID: -597054981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_101
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021ffdca6c5e5fe4bb0fc97b42749dc6
+      internalID: -15309003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_102
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900fa9b45efa34745b86ebe95e58bb11
+      internalID: -975176892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_103
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ccfa06964e80b48bebe12dd015be7a
+      internalID: 1385565793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_104
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31903cb83652f8419a1ff0934e4e1f4
+      internalID: -1388872078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_105
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a560d3089c92364a861fe7a7e7cebf9
+      internalID: 1287244130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_106
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4238acd3ef00673419fc4085b739b2b1
+      internalID: 1797500652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_107
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6f20ede8fa7b649b7d5e171d53d7d8
+      internalID: -726111916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_108
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7133ab335388994c80db6f420de7f2d
+      internalID: -593389797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_109
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bd4be06bf1247449f994d2eef49bc0
+      internalID: 1742157300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_110
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746e9055fa4cae24cb45060d9ae374d1
+      internalID: 57226257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_111
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2ba59930f338340a186e7302e86aa1
+      internalID: -1138308482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_112
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15ae8711615fed408db6139b6497381
+      internalID: -886332802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_113
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8550a219f4587ca40adbe573f68c297f
+      internalID: -522076160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_114
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223b5796d1f22c940a7af64738168c21
+      internalID: -1644565604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_115
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da591dd539dbc64582e571a823c8e6d
+      internalID: -1653693823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_116
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0462cda7aafbe78478aac3cf273b3bf1
+      internalID: 1675824595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_117
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9a611586d50434fa34927ee994dd72
+      internalID: -634347330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_118
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00323b45b241c8b4cb56a3e1efd35d2c
+      internalID: -1800915831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_119
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c126c47e5aaf9394b91d0488bc372fbc
+      internalID: 1307940253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_120
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee756dd765a0424c93f74047a7776c4
+      internalID: -1356151522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_121
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85c644e4a4b9e443bcb0dd10f382b90
+      internalID: -66495371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_122
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f713ea83b6dd1489614a5cab698f04
+      internalID: -1267577971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_123
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c651caa83bedd44bab0acb1a6e15dc
+      internalID: -730723527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_124
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53759b5fb88d2a4ead60934817bfce0
+      internalID: 473118743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_125
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5182755a169a704786898d3c0f47161
+      internalID: -622361982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_126
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5d78824f617164697af71c406a4953
+      internalID: -1413424299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_127
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2497c4a5fe708e249b6832f9e09233a4
+      internalID: -1046560922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_128
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1017cc4472ac6ec43a4682855a567a64
+      internalID: -386653912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_129
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b211ea14b4bcd24c9afda626f78929e
+      internalID: -1294973745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_130
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec13dcba9acd0ee4e9f2306d6b8f9816
+      internalID: -758649377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_131
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f4492972adc7c4fb7c47a30b707216
+      internalID: 579323645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_132
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1004
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cfe4452f50802439992af9a8994c76
+      internalID: -1502260022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_133
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52e1c6e8c130e3459a2f847dfdddbe2
+      internalID: 211231418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_134
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c69b1f1fc73024cb2584a896b391f6
+      internalID: -483511680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_135
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67501e1e2fd08143a831b377a5a51e6
+      internalID: -1983862095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_136
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fac170dd78a62479db33e8751a619c
+      internalID: 1144641816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_137
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9258ca56778b9464d931a66c34f6011b
+      internalID: -1717852040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_138
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5e5c7adeb49e0469ce418f042f52fb
+      internalID: 1907327490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_139
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e205a85d57dd7664f9bdb831ee346f5b
+      internalID: -1060694506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_140
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77249eb853ea00a48b1a0613f99dacc2
+      internalID: 2036825113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_141
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8928eab237d117b48b12b33ac8629c28
+      internalID: -1407661817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_142
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cbd2dd47038594d9f8e76df814e00e
+      internalID: 1324376689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_143
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c54bf1a03285a438e2a2fd28380f53
+      internalID: -588844283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_144
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ca8450fb29c7045ab03ad95d33ecc1
+      internalID: 1559847034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_145
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44e1a21b5f395c4cb74a4869faaf3c5
+      internalID: -1745869630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_146
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6a4d20fd8a6064fbf63ad0091b48d5
+      internalID: 1135766735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_147
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8aa3dfe385bd04c98aa2daf416a9c3
+      internalID: 36075638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_148
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37d8e6e0a8009d468476a086ad65184
+      internalID: 1653141367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_149
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 904
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cced813c5cffdd3429836ebb7119497f
+      internalID: 1362600572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd8d0abf26471649a31f9caf23f987e
+      internalID: 783598509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_151
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b21defa42088f644902969de81aed21
+      internalID: -619643053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_152
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033785edfb81b8949a851431bd786a1a
+      internalID: -649663879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_153
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcf52a9539887749ad94117d8c67c25
+      internalID: -1709469523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_154
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf0747121fc6d04395c98bdccc6e031
+      internalID: 1503517269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_155
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70f960c6c33d834fb0f90cc027de332
+      internalID: 23058745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_156
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaa7c44cfd74dc46a45fc00cbf369e1
+      internalID: 1147146479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_157
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a56f9365f2ae443bcd60a074edb258
+      internalID: -159557351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_158
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8c894678a50c74fa21d037d45fbd20
+      internalID: -77695973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_159
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c62f68e7bf3f6a46afcc90f9edde26e
+      internalID: 1036336215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_160
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d35747d1644a940a32de943e561be0
+      internalID: -601022383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_161
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f2f5e212dd18f4aac13d7ba66666c8
+      internalID: 1814519507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_162
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e816c9cd032a4e940ba0b964b1fde392
+      internalID: 1325436157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_163
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b561dd44e3d384eb0ae3eae6d17e5d
+      internalID: -319739679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_164
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14865898c695ec3449c48787f5b551e2
+      internalID: -304833222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_165
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb16388d60edb1c4c85269bfb7f029cf
+      internalID: -436244025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_166
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdb6cfa2bf3a79479f41c376f8f579b
+      internalID: 67291718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_167
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24724179d0d60f44cbe67aaa48c26959
+      internalID: 558157423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_168
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d234b7674927a94ba730790139c9a88
+      internalID: 1245919982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_169
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d7974ef2df26147bcfcb5a12456d10
+      internalID: 784703572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_170
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 804
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2943f3233bb1ce049b164b2d002fae5f
+      internalID: 2122716940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_171
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f784fee92f451b499d57dbed9ec5153
+      internalID: -1768209564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_172
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6234d4557a0fad046977ff29042db2ea
+      internalID: 2048193415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_173
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82bdbc241316964395f4ff6ae3b4198
+      internalID: 170837315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_174
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e64b2a584144b4587d194b2b09a83e
+      internalID: -890720141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_175
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab42bbb6114e6cf47be96d7d93a98223
+      internalID: -816328887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_176
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deacf3260f76d44a85e0056020e59e9
+      internalID: 345207454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_177
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a19724e1dc5e22408dacbbfa27fe29b
+      internalID: 1346578535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_178
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad823c68cf72ffa45aacf80ad9547be1
+      internalID: -1470771190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_179
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9add40386f7a7e4a8cbfcf98427958d
+      internalID: -168816861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_180
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe5b115ef6d15846821bcffda1910fe
+      internalID: -1911210060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_181
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2cbd29c7dc9e84a997580321546030
+      internalID: 1044301580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_182
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54ad0e96be95974f92a381ced172309
+      internalID: -1838569870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_183
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec37d7b2f25600449757beb46fb2933
+      internalID: 197476994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_184
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95407c463be6d744498c4b80e9ecf291
+      internalID: 521654076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_185
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7885ff73d5b77fb44bb7f4bc21ce850f
+      internalID: 465086368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_186
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13cb46b48f05ad49b0ee51171dada7e
+      internalID: 262603306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_187
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a36e2e2f6f3e242bf7696c8cbdc75d
+      internalID: -553738108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_188
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc2540f2ae5c454f9b7fa7971f0210f
+      internalID: -70819008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_189
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714a2def586f2d24fadbae921bb5f095
+      internalID: 355830932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_190
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a952c528c9475447899b68a85d71acf
+      internalID: -1766815618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_191
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92872d9eff2a95148ba685ab0bfd5106
+      internalID: -1059054942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_192
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b03b25aeacf76244aa9d0b0d16e61b0
+      internalID: -1340932016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_193
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49966ac2fa2c0c640966c2d2dac0e7fa
+      internalID: 1843552542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_194
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c19f8ad6d64454e88fa7bc9caf4f5f
+      internalID: -1826134860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_195
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1d0cdfe9e4af24ca60091c1dd5c72f
+      internalID: 800115367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_196
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2941eb0b7f8549147a70d93d2f9c3e52
+      internalID: -652699724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_197
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72240ec2528633b4ba72a759f92ec6fe
+      internalID: -513451114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_198
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f0e2cdbd5e30c48ae452f902812934
+      internalID: 1701195356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_199
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b07070e6f36d984fb4ce8305e8eda0c
+      internalID: -268920627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_200
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8f00834bf8118409b07f209a1b433a
+      internalID: -352487380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_201
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eff5a613f093b48a68f95eba8afb9d
+      internalID: -542623383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_202
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cc61935fcca4e41bf33f5ba84ba3cb
+      internalID: -117044139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_203
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaf01b2c30b9314f90b8388461a2561
+      internalID: -1524572751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_204
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 604
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9914acdde5d0a4ab6951233672dc5b
+      internalID: -698151827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_205
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0143f0d5a8c283b46abbff0e7e1c6678
+      internalID: -332074685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_206
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66cec681f22ebd46b392401a7db5d95
+      internalID: 1882094614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_207
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152d5bb9de1a51e409c3a4e85596be13
+      internalID: -964352523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_208
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428b16d5902109849b432c9673b14c26
+      internalID: -721607625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_209
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6d6ff6eead891429e68c67fdd00a05
+      internalID: -1161336718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_210
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00220bdc8c5b664b93ce06395f6f8d0
+      internalID: -808112671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_211
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7812e77d56649a04d92778ed6e363ac6
+      internalID: -1356922855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_212
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c9e6530c1d2994f84977df249d817c
+      internalID: 1971587863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_213
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3488bcf7dd168204793c872ae1589cae
+      internalID: 678206911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_214
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd173e237933f6a47b151c41e8bd376b
+      internalID: -1578903831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_215
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356437a475e393244876a2e2e130844f
+      internalID: -787865974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_216
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b488238ed3eeb54a8b8ceecec97316c
+      internalID: -47074260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_217
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1991e2591f2224f9b5d7d484ba9013
+      internalID: 1867967943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_218
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe6ee7df63966d44a80f050f18116e2
+      internalID: -1825495834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_219
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6113f6798e2494ebedf23807cd1bb4
+      internalID: -232502157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_220
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a59235a17e00d42a9666e982ba74be
+      internalID: 1991758164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_221
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a648a87ba9f0ab4aaa9266d9674798d
+      internalID: -2022240760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_222
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e087edfba1a06743b6a0c97441b070d
+      internalID: -761317490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_223
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 504
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9012e34803e8e434aac2889085629674
+      internalID: -2073837065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26776102399d5464e9f24d94653ef2f7
+      internalID: -577697511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_225
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 404
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073eebc5bbc177f4f9fc004b1e394eac
+      internalID: -1363693903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_226
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 404
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f379d93cea160cf42aba4140b8027f6e
+      internalID: 1679700884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_227
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 304
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd48a3cbcf993834e8b227b6e67fb75b
+      internalID: 1814881709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_228
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 304
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5163048c793cac04bb0375387392c102
+      internalID: -1897124666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_229
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 304
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ade11322fda424a93ea8980f1aea6a
+      internalID: -2100902161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_230
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 304
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f94d38241c11d24f94b38fabf7f5259
+      internalID: 1591605761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_231
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 304
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d94a1f7c89a1f744a379f1720000192
+      internalID: -895201238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_232
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 304
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdede3a1e8b41b479f7a2c82a85fff9
+      internalID: -214070010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_233
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 304
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c561614d5c046814e922fe15275cb6ee
+      internalID: -1519336131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_234
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 304
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b55f43bbfb274043ae8ece47e715239
+      internalID: 742142045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_235
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 304
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904c031ec56e9424d84ca766e5530b0b
+      internalID: 1433213414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_236
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 304
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263a2c70681b6654799b28859e61e860
+      internalID: -2137820298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_237
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e953142278c24045a1fab7d942968ce
+      internalID: 1107310908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_238
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fe4317f57fcb647a1e585dee9058f3
+      internalID: -49906397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_239
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b0e2632a0902c4f9b198c63bd4cee9
+      internalID: -147682465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_240
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fb7ace9b485ad468ac9b0fc0260678
+      internalID: 1306117173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_241
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cbd9f49e811cb49818bbe62370521b
+      internalID: 1100130462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_242
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b232b52d25c4b24881d19bcb8a0c112
+      internalID: -208018770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_243
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b60d63853d95984d9fed53167fd05b0
+      internalID: -94959671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_244
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648add20075d33f4c933fcb47cd9e357
+      internalID: 1083270133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_245
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbc46892f7b13a4a886c94b13427a57
+      internalID: 747795687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_246
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29863aa4abe89d5409b25d04e42d7316
+      internalID: -484390066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_247
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd688c8802bbaa44caf059a840f8fb7b
+      internalID: 750994548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_248
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ad2d0cbb01ad246a0b7f1f4becdd29
+      internalID: -958062346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_249
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374e294e5a3239e4e9eab913d8a686be
+      internalID: -1323963319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_250
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7139e6021e793d440af4e1f53ef30da5
+      internalID: -716643303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_251
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7093fa10d2448ad419206d0f82eb902f
+      internalID: 425227915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_252
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fd738fbcdd00a46a976926bfdbe4fd
+      internalID: -306472835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_253
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3934c4a1306a04b87f8aa25edc30c4
+      internalID: -2020471918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_254
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfa460742647a1448e7731cf100db63
+      internalID: 337235686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_255
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9c117c5e869a048935f04b37735caf
+      internalID: -1538317415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_256
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 104
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950e94eb5a6899841a12bbb1c7d90fa6
+      internalID: -1769864079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_257
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 4
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f383e45bea59ea8438eaf9e2400a13f7
+      internalID: 848489270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_258
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bd16ef72ca7774fa858a25a912051b
+      internalID: 1425148032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_259
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 4
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5699fcb391b94469d58f51dc0cd952
+      internalID: 644898826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_260
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966a99d4773624342bc2b85aae58dc60
+      internalID: -1476739838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles da Casa Grided_261
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 4
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bc46771b5b7794f921101d7eb7770d
+      internalID: 815742883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b74932b2c039f674e95e567fa82e829c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tiles da Casa Grided_0: -6489005355986825350
+      Tiles da Casa Grided_1: 350943897657122358
+      Tiles da Casa Grided_10: 3147643331029921360
+      Tiles da Casa Grided_100: -597054981
+      Tiles da Casa Grided_101: -15309003
+      Tiles da Casa Grided_102: -975176892
+      Tiles da Casa Grided_103: 1385565793
+      Tiles da Casa Grided_104: -1388872078
+      Tiles da Casa Grided_105: 1287244130
+      Tiles da Casa Grided_106: 1797500652
+      Tiles da Casa Grided_107: -726111916
+      Tiles da Casa Grided_108: -593389797
+      Tiles da Casa Grided_109: 1742157300
+      Tiles da Casa Grided_11: 6493510781095799206
+      Tiles da Casa Grided_110: 57226257
+      Tiles da Casa Grided_111: -1138308482
+      Tiles da Casa Grided_112: -886332802
+      Tiles da Casa Grided_113: -522076160
+      Tiles da Casa Grided_114: -1644565604
+      Tiles da Casa Grided_115: -1653693823
+      Tiles da Casa Grided_116: 1675824595
+      Tiles da Casa Grided_117: -634347330
+      Tiles da Casa Grided_118: -1800915831
+      Tiles da Casa Grided_119: 1307940253
+      Tiles da Casa Grided_12: -6065697164677801097
+      Tiles da Casa Grided_120: -1356151522
+      Tiles da Casa Grided_121: -66495371
+      Tiles da Casa Grided_122: -1267577971
+      Tiles da Casa Grided_123: -730723527
+      Tiles da Casa Grided_124: 473118743
+      Tiles da Casa Grided_125: -622361982
+      Tiles da Casa Grided_126: -1413424299
+      Tiles da Casa Grided_127: -1046560922
+      Tiles da Casa Grided_128: -386653912
+      Tiles da Casa Grided_129: -1294973745
+      Tiles da Casa Grided_13: -6718546225887864500
+      Tiles da Casa Grided_130: -758649377
+      Tiles da Casa Grided_131: 579323645
+      Tiles da Casa Grided_132: -1502260022
+      Tiles da Casa Grided_133: 211231418
+      Tiles da Casa Grided_134: -483511680
+      Tiles da Casa Grided_135: -1983862095
+      Tiles da Casa Grided_136: 1144641816
+      Tiles da Casa Grided_137: -1717852040
+      Tiles da Casa Grided_138: 1907327490
+      Tiles da Casa Grided_139: -1060694506
+      Tiles da Casa Grided_14: 220376183589672730
+      Tiles da Casa Grided_140: 2036825113
+      Tiles da Casa Grided_141: -1407661817
+      Tiles da Casa Grided_142: 1324376689
+      Tiles da Casa Grided_143: -588844283
+      Tiles da Casa Grided_144: 1559847034
+      Tiles da Casa Grided_145: -1745869630
+      Tiles da Casa Grided_146: 1135766735
+      Tiles da Casa Grided_147: 36075638
+      Tiles da Casa Grided_148: 1653141367
+      Tiles da Casa Grided_149: 1362600572
+      Tiles da Casa Grided_15: 1291723377639251711
+      Tiles da Casa Grided_150: 783598509
+      Tiles da Casa Grided_151: -619643053
+      Tiles da Casa Grided_152: -649663879
+      Tiles da Casa Grided_153: -1709469523
+      Tiles da Casa Grided_154: 1503517269
+      Tiles da Casa Grided_155: 23058745
+      Tiles da Casa Grided_156: 1147146479
+      Tiles da Casa Grided_157: -159557351
+      Tiles da Casa Grided_158: -77695973
+      Tiles da Casa Grided_159: 1036336215
+      Tiles da Casa Grided_16: -8610583727126032470
+      Tiles da Casa Grided_160: -601022383
+      Tiles da Casa Grided_161: 1814519507
+      Tiles da Casa Grided_162: 1325436157
+      Tiles da Casa Grided_163: -319739679
+      Tiles da Casa Grided_164: -304833222
+      Tiles da Casa Grided_165: -436244025
+      Tiles da Casa Grided_166: 67291718
+      Tiles da Casa Grided_167: 558157423
+      Tiles da Casa Grided_168: 1245919982
+      Tiles da Casa Grided_169: 784703572
+      Tiles da Casa Grided_17: -1135668638647524948
+      Tiles da Casa Grided_170: 2122716940
+      Tiles da Casa Grided_171: -1768209564
+      Tiles da Casa Grided_172: 2048193415
+      Tiles da Casa Grided_173: 170837315
+      Tiles da Casa Grided_174: -890720141
+      Tiles da Casa Grided_175: -816328887
+      Tiles da Casa Grided_176: 345207454
+      Tiles da Casa Grided_177: 1346578535
+      Tiles da Casa Grided_178: -1470771190
+      Tiles da Casa Grided_179: -168816861
+      Tiles da Casa Grided_18: -8398394968479617098
+      Tiles da Casa Grided_180: -1911210060
+      Tiles da Casa Grided_181: 1044301580
+      Tiles da Casa Grided_182: -1838569870
+      Tiles da Casa Grided_183: 197476994
+      Tiles da Casa Grided_184: 521654076
+      Tiles da Casa Grided_185: 465086368
+      Tiles da Casa Grided_186: 262603306
+      Tiles da Casa Grided_187: -553738108
+      Tiles da Casa Grided_188: -70819008
+      Tiles da Casa Grided_189: 355830932
+      Tiles da Casa Grided_19: 6349940537430181009
+      Tiles da Casa Grided_190: -1766815618
+      Tiles da Casa Grided_191: -1059054942
+      Tiles da Casa Grided_192: -1340932016
+      Tiles da Casa Grided_193: 1843552542
+      Tiles da Casa Grided_194: -1826134860
+      Tiles da Casa Grided_195: 800115367
+      Tiles da Casa Grided_196: -652699724
+      Tiles da Casa Grided_197: -513451114
+      Tiles da Casa Grided_198: 1701195356
+      Tiles da Casa Grided_199: -268920627
+      Tiles da Casa Grided_2: 2430172386253737726
+      Tiles da Casa Grided_20: 460834361035951864
+      Tiles da Casa Grided_200: -352487380
+      Tiles da Casa Grided_201: -542623383
+      Tiles da Casa Grided_202: -117044139
+      Tiles da Casa Grided_203: -1524572751
+      Tiles da Casa Grided_204: -698151827
+      Tiles da Casa Grided_205: -332074685
+      Tiles da Casa Grided_206: 1882094614
+      Tiles da Casa Grided_207: -964352523
+      Tiles da Casa Grided_208: -721607625
+      Tiles da Casa Grided_209: -1161336718
+      Tiles da Casa Grided_21: -2268791827426179884
+      Tiles da Casa Grided_210: -808112671
+      Tiles da Casa Grided_211: -1356922855
+      Tiles da Casa Grided_212: 1971587863
+      Tiles da Casa Grided_213: 678206911
+      Tiles da Casa Grided_214: -1578903831
+      Tiles da Casa Grided_215: -787865974
+      Tiles da Casa Grided_216: -47074260
+      Tiles da Casa Grided_217: 1867967943
+      Tiles da Casa Grided_218: -1825495834
+      Tiles da Casa Grided_219: -232502157
+      Tiles da Casa Grided_22: -9099930064685502122
+      Tiles da Casa Grided_220: 1991758164
+      Tiles da Casa Grided_221: -2022240760
+      Tiles da Casa Grided_222: -761317490
+      Tiles da Casa Grided_223: -2073837065
+      Tiles da Casa Grided_224: -577697511
+      Tiles da Casa Grided_225: -1363693903
+      Tiles da Casa Grided_226: 1679700884
+      Tiles da Casa Grided_227: 1814881709
+      Tiles da Casa Grided_228: -1897124666
+      Tiles da Casa Grided_229: -2100902161
+      Tiles da Casa Grided_23: 5741565724323790355
+      Tiles da Casa Grided_230: 1591605761
+      Tiles da Casa Grided_231: -895201238
+      Tiles da Casa Grided_232: -214070010
+      Tiles da Casa Grided_233: -1519336131
+      Tiles da Casa Grided_234: 742142045
+      Tiles da Casa Grided_235: 1433213414
+      Tiles da Casa Grided_236: -2137820298
+      Tiles da Casa Grided_237: 1107310908
+      Tiles da Casa Grided_238: -49906397
+      Tiles da Casa Grided_239: -147682465
+      Tiles da Casa Grided_24: -1423140653878420980
+      Tiles da Casa Grided_240: 1306117173
+      Tiles da Casa Grided_241: 1100130462
+      Tiles da Casa Grided_242: -208018770
+      Tiles da Casa Grided_243: -94959671
+      Tiles da Casa Grided_244: 1083270133
+      Tiles da Casa Grided_245: 747795687
+      Tiles da Casa Grided_246: -484390066
+      Tiles da Casa Grided_247: 750994548
+      Tiles da Casa Grided_248: -958062346
+      Tiles da Casa Grided_249: -1323963319
+      Tiles da Casa Grided_25: 8237732549327513080
+      Tiles da Casa Grided_250: -716643303
+      Tiles da Casa Grided_251: 425227915
+      Tiles da Casa Grided_252: -306472835
+      Tiles da Casa Grided_253: -2020471918
+      Tiles da Casa Grided_254: 337235686
+      Tiles da Casa Grided_255: -1538317415
+      Tiles da Casa Grided_256: -1769864079
+      Tiles da Casa Grided_257: 848489270
+      Tiles da Casa Grided_258: 1425148032
+      Tiles da Casa Grided_259: 644898826
+      Tiles da Casa Grided_26: 3027052969069140393
+      Tiles da Casa Grided_260: -1476739838
+      Tiles da Casa Grided_261: 815742883
+      Tiles da Casa Grided_27: 4177859761029832237
+      Tiles da Casa Grided_28: 1004598974692299314
+      Tiles da Casa Grided_29: 4500491513775479727
+      Tiles da Casa Grided_3: 3270919646505949330
+      Tiles da Casa Grided_30: -8756519873323885589
+      Tiles da Casa Grided_31: 767194302920696269
+      Tiles da Casa Grided_32: 8735878336369742879
+      Tiles da Casa Grided_33: -112159200595600427
+      Tiles da Casa Grided_34: 8947467834586106304
+      Tiles da Casa Grided_35: 8524164490633994248
+      Tiles da Casa Grided_36: -5860903635196497561
+      Tiles da Casa Grided_37: -7757627887488990893
+      Tiles da Casa Grided_38: 654174660089082710
+      Tiles da Casa Grided_39: 675716620756030270
+      Tiles da Casa Grided_4: 9016346991382690440
+      Tiles da Casa Grided_40: -2834026213471757235
+      Tiles da Casa Grided_41: -2740908402400079880
+      Tiles da Casa Grided_42: 1662240548355249021
+      Tiles da Casa Grided_43: -713838756294872816
+      Tiles da Casa Grided_44: 1931623471240368953
+      Tiles da Casa Grided_45: -826165719016106565
+      Tiles da Casa Grided_46: -3981130184479219532
+      Tiles da Casa Grided_47: -2943987859521267955
+      Tiles da Casa Grided_48: 4825624436278461563
+      Tiles da Casa Grided_49: 7300929413851019399
+      Tiles da Casa Grided_5: -5379064726835874007
+      Tiles da Casa Grided_50: 3536243948327495473
+      Tiles da Casa Grided_51: -2215985969923804041
+      Tiles da Casa Grided_52: 939166403150312625
+      Tiles da Casa Grided_53: 209560754012175638
+      Tiles da Casa Grided_54: -3400658618107623888
+      Tiles da Casa Grided_55: -3316980598534807204
+      Tiles da Casa Grided_56: 881172120068783904
+      Tiles da Casa Grided_57: -547369313820232836
+      Tiles da Casa Grided_58: -2239298333354957915
+      Tiles da Casa Grided_59: -4649949907686394883
+      Tiles da Casa Grided_6: -3060532501795659701
+      Tiles da Casa Grided_60: -8179700800016427972
+      Tiles da Casa Grided_61: -3904894122858931233
+      Tiles da Casa Grided_62: 2731773784456305545
+      Tiles da Casa Grided_63: 6771455217589955274
+      Tiles da Casa Grided_64: -7298598475870481043
+      Tiles da Casa Grided_65: 2421032622985233453
+      Tiles da Casa Grided_66: 6167561456035415016
+      Tiles da Casa Grided_67: 5733216538844816198
+      Tiles da Casa Grided_68: 1885119945095340103
+      Tiles da Casa Grided_69: 1078560561
+      Tiles da Casa Grided_7: -8033559801928387213
+      Tiles da Casa Grided_70: 572729147
+      Tiles da Casa Grided_71: -783694295
+      Tiles da Casa Grided_72: 1954540182
+      Tiles da Casa Grided_73: -1724099095
+      Tiles da Casa Grided_74: 519175292
+      Tiles da Casa Grided_75: 571451598
+      Tiles da Casa Grided_76: 188853206
+      Tiles da Casa Grided_77: -1012111402
+      Tiles da Casa Grided_78: 795646995
+      Tiles da Casa Grided_79: 1387946167
+      Tiles da Casa Grided_8: -1889310705188096203
+      Tiles da Casa Grided_80: 812035749
+      Tiles da Casa Grided_81: -1537545328
+      Tiles da Casa Grided_82: 882089750
+      Tiles da Casa Grided_83: -276683695
+      Tiles da Casa Grided_84: -1774904107
+      Tiles da Casa Grided_85: 1045980382
+      Tiles da Casa Grided_86: 1968427103
+      Tiles da Casa Grided_87: 867273927
+      Tiles da Casa Grided_88: 864927086
+      Tiles da Casa Grided_89: -128985094
+      Tiles da Casa Grided_9: -926023256581939071
+      Tiles da Casa Grided_90: -1861775831
+      Tiles da Casa Grided_91: 1299061866
+      Tiles da Casa Grided_92: 391852699
+      Tiles da Casa Grided_93: 352745087
+      Tiles da Casa Grided_94: 450496471
+      Tiles da Casa Grided_95: 536869804
+      Tiles da Casa Grided_96: 797304577
+      Tiles da Casa Grided_97: -1565999235
+      Tiles da Casa Grided_98: -991945530
+      Tiles da Casa Grided_99: -334015685
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
