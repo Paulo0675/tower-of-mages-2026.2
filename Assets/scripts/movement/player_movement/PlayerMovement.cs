@@ -6,96 +6,46 @@ using UnityEngine.InputSystem;
 public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] private float player_speed = 5f;
+
     private Rigidbody2D rb;
     private Vector2 move_input;
-    
-    /*
+
     private Animator animator;
-    private bool playing_footsteps = false;
-    public float footstep_speed = 0.5f;
-    */
+
+    private Vector2 last_direction = Vector2.down;
 
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        //animator = GetComponent<Animator>();
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        /*
-        if(PauseController.IsGamePaused)
-        {
-            if(rb.velocity != Vector2.zero)
-            {
-                rb.velocity = Vector2.zero;
-            }
-            rb.velocity = Vector2.zero;
-            animator.SetBool("isWalking", false);
-
-            StopFootsteps();
-
-            return;
-        }
-        */
-
         rb.velocity = move_input * player_speed;
 
-        /*
+        bool isWalking = move_input != Vector2.zero;
 
-        animator.SetBool("isWalking", rb.velocity.magnitude> 0);
+        animator.SetBool("isWalking", isWalking);
 
-        if(rb.velocity.magnitude> 0 && !playing_footsteps){
-            StartFootsteps();
+        if (isWalking)
+        {
+            animator.SetFloat("InputX", move_input.x);
+            animator.SetFloat("InputY", move_input.y);
+
+            last_direction = move_input;
         }
-        else if(rb.velocity.magnitude == 0){
-            StopFootsteps();
-        }
-        */
+
+        animator.SetFloat("LastInputX", last_direction.x);
+        animator.SetFloat("LastInputY", last_direction.y);
     }
 
-    
 
     public void Move(InputAction.CallbackContext context)
     {
-        /*
-        if (context.canceled)
-        {
-            StopMovementAnimations();
-        }
-        */
-
         move_input = context.ReadValue<Vector2>();
-
-        /*
-        animator.SetFloat("InputX", move_input.x);
-        animator.SetFloat("InputY", move_input.y);
-        */
     }
-
-    /*
-    void StopMovementAnimations()
-    {
-        animator.SetBool("isWalking", false);
-        animator.SetFloat("LastInputX", move_input.x);
-        animator.SetFloat("LastInputY", move_input.y);
-    }
-
-    void StartFootsteps(){
-        playing_footsteps = true;
-        InvokeRepeating(nameof(PlayFootsteps), 0f, footstep_speed);   
-    }
-
-    void StopFootsteps(){
-        playing_footsteps = false;
-        CancelInvoke(nameof(PlayFootsteps));
-    }
-
-    void PlayFootsteps(){
-        SoundEffectManager.Play("Footsteps", true);
-    }
-    */
 }
